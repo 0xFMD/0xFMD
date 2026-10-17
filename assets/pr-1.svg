@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="86" viewBox="0 0 280 86">
+<style>
+  .label{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif;font-size:12.5px;font-weight:500}
+  .small{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif;font-size:10.5px}
+  .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,'DejaVu Sans',sans-serif} .mono{font-family:'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+  .bg{fill:#ffffff;stroke:#d0d7de}.ln{stroke:#d0d7de}.t{fill:#1f2328}.m{fill:#59636e}.f{fill:#6e7781}.a{fill:#1a7f37}.h0{fill:#ebedf0}.h1{fill:#9be9a8}.h2{fill:#40c463}.h3{fill:#30a14e}.h4{fill:#216e39}
+  @media (prefers-color-scheme:dark){.bg{fill:#0d1117;stroke:#30363d}.ln{stroke:#30363d}.t{fill:#e6edf3}.m{fill:#9198a1}.f{fill:#7d8590}.a{fill:#3fb950}.h0{fill:#161b22}.h1{fill:#0e4429}.h2{fill:#006d32}.h3{fill:#26a641}.h4{fill:#39d353}}
+</style>
+<rect class="bg" x="5.5" y="0.5" width="269" height="85" rx="6"/>
+<g transform="translate(5 0)">
+  <text x="20" y="34" class="mono t" font-size="14" font-weight="700">hyprland-community</text>
+  <text x="20" y="56" class="sans m" font-size="12">awesome-hyprland</text>
+  <text x="20" y="76" class="small f">★ 5.4k</text>
+  <text x="250" y="50" class="mono a" font-size="28" font-weight="700" text-anchor="end">1</text>
+  <text x="250" y="68" class="small f" text-anchor="end">merged</text></g>
+</svg>

@@ -16,3 +16,34 @@
 <a href="https://github.com/search?q=is%3Apr+author%3A0xFMD+is%3Amerged+org%3Ahyprland-community&type=pullrequests"><img src="assets/pr-1.svg" width="32.87%" alt="1 merged pull request in hyprland-community"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3A0xFMD+is%3Amerged+org%3ASAFCSP-Team&type=pullrequests"><img src="assets/pr-2.svg" width="32.87%" alt="1 merged pull request in SAFCSP-Team"></a>
 </p>
+
+
+<h3 align="center">Tuwaiq Academy · Systems Programming Bootcamp</h3>
+
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/0xFMD/wayboard"><b>Wayboard</b></a></td>
+    <td>A Wayland compositor where your desktop is a whiteboard.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/0xFMD/Task-Manager-Reimagined"><b>Task Manager Reimagined</b></a></td>
+    <td>Visualization of the process tree.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/m7md-d/V6O"><b>V6O</b></a></td>
+    <td>A V60-style drip coffee machine.</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/m7md-d/SDCS"><b>SDCS</b></a></td>
+    <td>Visualizes a drone's flight path and replays it.</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/0xFMD/TU-EPO"><b>TU-EPO</b></a></td>
+      <td>My system programming bootcamp journey: projects, group work, and exercises.</td>
+    </tr>
+  
+</table>
